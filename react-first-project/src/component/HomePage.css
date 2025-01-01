@@ -1,0 +1,113 @@
+.Head-Container{
+    display:flex;
+    flex-direction: column;
+    gap: 0.50em;
+    justify-items: center;
+    align-items: center;
+}
+.header{
+    color: #61dafb;
+    background-color: #282c34;
+    text-align: center;
+    min-height: 30vh;
+    font-size: calc(10px + 2vmin);
+    /* display:flexbox; */
+    
+}
+.Second-block{  
+ background-color: aquamarine;   
+ padding: 10px 10px;
+ width: 300px;
+ height: 300px;
+ display: flex;
+ gap:0.10em;
+ flex-direction: column;
+ align-items: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:0em;
+}
+.Show-Example{
+    background-color: lawngreen;
+     
+    margin-left: 1%;
+    font-size: 16px;
+    border-color: lawngreen;
+    width: 50%;
+    height: 150pxpx;
+}
+.Para-graph{
+    text-align:center;
+    font-size: 116%; 
+    line-height: 0px;
+}
+.Demo{
+    background-color: lawngreen;
+    /* padding: 5px 136px ;  */
+    margin-left: 1%;
+    font-size: 16px;
+    border-color: lawngreen;
+    width: 50%;
+    height: 150pxpx;
+}
+
+.Pragraph{
+    text-align:center;
+    width: 100%;
+    line-height: 0px; 
+}
+.header-second{
+    display:flex;
+    gap: 0.50em; 
+    justify-content:center;
+}
+.Minus{
+    width: 40px;
+    height: 35px;
+    background-color:cornflowerblue;
+    border-color:cornflowerblue;
+    font-size: 160%;
+    color:white;
+}
+.candidate{
+    width: 70px;
+    height: 30px;
+    font-size: 130%;
+}
+.Add{
+    width: 40px;
+    height: 35px;
+    background-color:cornflowerblue;
+    border-color:cornflowerblue;
+    font-size: 160%;
+    color:white;
+}
+.HeaderTrip{
+    align-items: center;
+    display: flex;
+    gap: 2em;
+    flex-direction: column;
+}
+.PARAGRAPH{
+    width: 80%;
+    line-height: 0px;
+    font-size: 120%;
+    display: flex;
+    justify-content: center;
+}
+.TripName{
+    border: 1px solid #408cbe;
+    height: 25px;
+    width: 150%;
+}
+.Go{
+
+    border-color: aquamarine;
+    /* background-color: #408cbe; */
+    width: 150%;
+    height: 30px;
+
+}

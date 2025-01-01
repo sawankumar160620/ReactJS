@@ -1,0 +1,43 @@
+#Form-control{
+    /* padding: 80px; */
+    padding-right: 350px;
+    padding-bottom: auto;
+    display: flex;
+    flex-direction:column;
+    align-items:baseline;
+    gap: 1em;
+    /* justify-content:space-evenly; */
+    width: 150px;
+    top: auto;;
+    height: auto;
+    bottom: auto;
+    /* margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto; */
+    background-color: brown;
+}
+#WrapName
+{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: auto;
+}
+#Include-candidates
+{   
+ width: 50px;   
+}
+.Candidate{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    margin-top: opx;
+}
+#More
+{
+    margin-bottom: 10px;
+    width: 100px;
+}

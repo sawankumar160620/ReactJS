@@ -1,0 +1,9 @@
+.Candidate{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+#Include-candidates
+{   
+ width: 60px;   
+}
